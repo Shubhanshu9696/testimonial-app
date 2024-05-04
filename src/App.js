@@ -1,8 +1,8 @@
-import { useEffect } from 'react';
+// import { useEffect } from 'react';
 import './App.css';
 import { Testimonials } from './components/Testimonials.jsx';
 import reviews from './data.jsx'
-import axios from 'axios';
+// import axios from 'axios';
 function App() {
 
 
