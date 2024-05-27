@@ -6,13 +6,13 @@ const reviews = [
         image: "shubhanshu.jpg",
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda."
     },
-    {
-        id: 2,
-        name: "Himanshu Tiwari",
-        job: "Software Engineer",
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda.",
-        image: "himanshu.jpg"
-    },
+    // {
+    //     id: 2,
+    //     name: "Himanshu Tiwari",
+    //     job: "Software Engineer",
+    //     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda.",
+    //     image: "himanshu.jpg"
+    // },
     {
         id: 3,
         name: "Shubham Sharma",
@@ -34,13 +34,13 @@ const reviews = [
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda.",
         image: "sharad.jpg"
     },
-    {
-        id: 6,
-        name: "Shresth Tyagi",
-        job: "Content Creator",
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda.",
-        image: "shresth.jpg"
-    },
+    // {
+    //     id: 6,
+    //     name: "Shresth Tyagi",
+    //     job: "Content Creator",
+    //     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo rem nulla fuga maxime reiciendis minima error, reprehenderit facere adipisci culpa in est, eius atque maiores. Dicta ut hic illo assumenda.",
+    //     image: "shresth.jpg"
+    // },
 
 ]
 
